@@ -29,8 +29,7 @@ The aim of this project was to:
 
 ## 📷 Screenshot
 
-![GoFood UI - Hero Section](./Screenshot%202025-06-10%20211502.png)
-
+![Image](https://github.com/user-attachments/assets/40d4967b-e513-4d04-9455-3122454f5906)
 ---
 
 ## ✨ Key Features in the Design
@@ -42,3 +41,27 @@ The aim of this project was to:
 - 🔤 **Typography:** Clear visual hierarchy with bold headings and lighter body text
 
 ---
+## ✅ Learning Outcomes
+
+- Developed confidence using Figma tools like grids, layers, components, and color styles
+- Understood how to balance imagery and typography for commercial landing pages
+- Improved design aesthetics and attention to UX details in CTA placement and navigation flow
+
+---
+
+## 📌 Next Steps
+
+In future iterations, I plan to:
+- Build a responsive version of this design (tablet/mobile)
+- Add more sections: Testimonials, Menu Grid, Footer
+- Convert the UI into a real web page using HTML/CSS
+
+---
+
+## 📬 Contact
+
+If you'd like to collaborate, provide feedback, or want help with Figma, feel free to reach out!
+
+> **Created by:** Jissa Aan Juby
+> **Tool:** [Figma Free Plan](https://www.figma.com/)  
+> **Project:** UI Practice – GoFood Landing Page  
